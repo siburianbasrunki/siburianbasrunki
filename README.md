@@ -9,7 +9,7 @@
  #### 2. [SMA N 1 Muara] | IPA | Muara `2017-2020`
 
 ## Work Experience:
-#### -
+#### - see my web portfolio (http://basrunkiportfolio.vercel.app/)
 
 <br />
 <br />
