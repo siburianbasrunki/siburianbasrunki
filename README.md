@@ -23,6 +23,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/basrunki_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/basrunki_#gh-dark-mode-only)
 
-
+(https://github-readme-stats.vercel.app/api?username=siburianbasrunki&show_icons=true&theme=transparent)](https://github.com/siburianbasrunki)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siburianbasrunki&layout=compact&theme=transparent)
 
 [webdev]: https://github.com/siburianbasrunki
