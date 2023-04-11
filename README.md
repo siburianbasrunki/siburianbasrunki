@@ -2,7 +2,7 @@
 ## About me:
 - 🌱 I’m currently learning Javascript and React JS
 - 📫 How to reach me: basrunkisiburian@gmail.com
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siburianbasrunki&layout=compact&theme=transparent)
 ## Education:
 
 #### 1. [Institut Teknologi Sumatera ](https://www.itera.ac.id) | informatics engineering | Lampung `2020-Now`
@@ -24,6 +24,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/basrunki_#gh-dark-mode-only)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siburianbasrunki&layout=compact&theme=transparent)
+
 
 [webdev]: https://github.com/siburianbasrunki
