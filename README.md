@@ -25,7 +25,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/basrunki_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/basrunki_#gh-dark-mode-only)
 
-![Visitor Count](https://profile-counter.glitch.me/siburianbasrunki/count.svg)
-
+![](https://komarev.com/ghpvc/?username=siburianbasrunki&color=brightgreen)
 
 [webdev]: https://github.com/siburianbasrunki
