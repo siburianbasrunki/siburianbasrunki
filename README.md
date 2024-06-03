@@ -37,6 +37,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dark?style=social&logo=linkedin)](https://www.linkedin.com/in/basrunki-siburian-ba6b03210/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-light?style=social&logo=instagram)](https://www.instagram.com/basrunkisiburian/)
-[![Instagram](https://img.shields.io/badge/Instagram-dark?style=social&logo=instagram)](https://instagram.com/basrunki_#gh-dark-mode-only)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siburianbasrunki&color=brightgreen)
