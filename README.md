@@ -3,7 +3,6 @@
 ## About me:
 - 📫 How to reach me: basrunkisiburian@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siburianbasrunki&layout=compact&theme=transparent)
 
 
 
