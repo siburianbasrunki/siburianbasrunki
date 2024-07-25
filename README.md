@@ -17,7 +17,7 @@
 1. [Institut Teknologi Sumatera](https://www.itera.ac.id) 
    - Degree: Informatics Engineering
    - Location: Lampung
-   - Years: 2020-Now
+   - Years: 2020-2024
 
 2. [SMA N 1 Muara]
    - Major: IPA
