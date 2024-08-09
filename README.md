@@ -26,9 +26,6 @@
 
 ## Work Experience:
 - Check out my web portfolio at [basrunkiportfolio.vercel.app](http://basrunkiportfolio.vercel.app/)
-<iframe src="http://basrunkiportfolio.vercel.app/" width="800" height="600"></iframe>
-
-<br />
 
 ---
 
