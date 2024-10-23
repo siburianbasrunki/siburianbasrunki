@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-
+![snake gif](https://github.com/siburianbasrunki/siburianbasrunki/blob/output/github-contribution-grid-snake.gif)
 ## Education:
 1. [Institut Teknologi Sumatera](https://www.itera.ac.id) 
    - Degree: Informatics Engineering
